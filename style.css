@@ -430,3 +430,11 @@
     background-size: cover;
     background-position: center;
 }
+.foot-item{
+    margin-right: 10px;
+    color: #73879c;
+    font-weight: 700;
+    font-family: "Source Sans Pro";
+    text-align: center;
+    align-items: center;
+}
